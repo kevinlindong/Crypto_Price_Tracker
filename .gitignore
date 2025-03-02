@@ -32,3 +32,13 @@ yarn-error.log*
 # TypeScript
 *.tsbuildinfo
 next-env.d.ts
+
+# Large directories to exclude
+docs/.docusaurus
+docs/node_modules
+web-app/node_modules
+
+# Cache directories
+.cache/
+.npm
+.eslintcache
