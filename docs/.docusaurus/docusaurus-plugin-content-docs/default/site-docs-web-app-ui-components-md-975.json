@@ -1,0 +1,27 @@
+{
+  "id": "web-app/ui-components",
+  "title": "UI Components",
+  "description": "This section provides details about the key UI components used in the Crypto Price Tracker application.",
+  "source": "@site/docs/web-app/ui-components.md",
+  "sourceDirName": "web-app",
+  "slug": "/web-app/ui-components",
+  "permalink": "/web-app/ui-components",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/kevinlindong/Crypto_Price_Tracker/tree/main/docs/docs/web-app/ui-components.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "State Management",
+    "permalink": "/web-app/state-management"
+  },
+  "next": {
+    "title": "Challenges & Solutions",
+    "permalink": "/challenges"
+  }
+}

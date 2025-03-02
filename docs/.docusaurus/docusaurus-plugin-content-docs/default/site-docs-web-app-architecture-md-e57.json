@@ -1,0 +1,27 @@
+{
+  "id": "web-app/architecture",
+  "title": "Architecture",
+  "description": "This section provides an overview of the Crypto Price Tracker web application architecture.",
+  "source": "@site/docs/web-app/architecture.md",
+  "sourceDirName": "web-app",
+  "slug": "/web-app/architecture",
+  "permalink": "/web-app/architecture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/kevinlindong/Crypto_Price_Tracker/tree/main/docs/docs/web-app/architecture.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Configuration",
+    "permalink": "/setup/configuration"
+  },
+  "next": {
+    "title": "API Integration",
+    "permalink": "/web-app/api-integration"
+  }
+}

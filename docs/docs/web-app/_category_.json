@@ -1,0 +1,8 @@
+{
+  "label": "Web App",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Details about the web application architecture, API integration, and state management."
+  }
+}

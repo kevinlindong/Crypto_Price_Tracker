@@ -1,0 +1,23 @@
+{
+  "id": "challenges",
+  "title": "Challenges & Solutions",
+  "description": "This section outlines the key challenges encountered during the development of the Crypto Price Tracker application and the solutions implemented to address them.",
+  "source": "@site/docs/challenges.md",
+  "sourceDirName": ".",
+  "slug": "/challenges",
+  "permalink": "/challenges",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/kevinlindong/Crypto_Price_Tracker/tree/main/docs/docs/challenges.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UI Components",
+    "permalink": "/web-app/ui-components"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "web-app/api-integration",
+  "title": "API Integration",
+  "description": "This section explains how the Crypto Price Tracker integrates with cryptocurrency data APIs.",
+  "source": "@site/docs/web-app/api-integration.md",
+  "sourceDirName": "web-app",
+  "slug": "/web-app/api-integration",
+  "permalink": "/web-app/api-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/kevinlindong/Crypto_Price_Tracker/tree/main/docs/docs/web-app/api-integration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Architecture",
+    "permalink": "/web-app/architecture"
+  },
+  "next": {
+    "title": "State Management",
+    "permalink": "/web-app/state-management"
+  }
+}
